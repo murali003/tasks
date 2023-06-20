@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Basic" />
+    <orderEntry type="module" module-name="Conversions" />
+    <orderEntry type="module" module-name="Dictionary" />
+    <orderEntry type="module" module-name="List" />
+    <orderEntry type="module" module-name="Set" />
+    <orderEntry type="module" module-name="String" />
+    <orderEntry type="module" module-name="tuple" />
+    <orderEntry type="module" module-name="pandas" />
+    <orderEntry type="module" module-name="Pandas-series" />
+    <orderEntry type="module" module-name="Dataframe" />
+    <orderEntry type="module" module-name="Read-csv" />
+    <orderEntry type="module" module-name="Pandas-sorting" />
+    <orderEntry type="module" module-name="Indexing-Selecting" />
+    <orderEntry type="module" module-name="Aggregate-function" />
+    <orderEntry type="module" module-name="Replace-NAN-zero" />
+    <orderEntry type="module" module-name="Read-JSON" />
+    <orderEntry type="module" module-name="convert-json-to-csv" />
+    <orderEntry type="module" module-name="CSV-to-Json" />
+    <orderEntry type="module" module-name="basic" />
+    <orderEntry type="module" module-name="JSON" />
+    <orderEntry type="module" module-name="CSV" />
+  </component>
+</module>

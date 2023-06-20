@@ -1,0 +1,5 @@
+tuple1 = ('snegha','krishva','kousi')
+result = list(tuple1)
+result.remove('kousi')
+tuple1 = tuple(result)
+print(tuple1)

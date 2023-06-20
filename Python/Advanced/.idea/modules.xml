@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Advanced.iml" filepath="$PROJECT_DIR$/.idea/Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Pandas-programs/Aggregate-function/.idea/Aggregate-function.iml" filepath="$PROJECT_DIR$/../../Pandas-programs/Aggregate-function/.idea/Aggregate-function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Basic/.idea/Basic.iml" filepath="$PROJECT_DIR$/../Basic/.idea/Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Pandas-programs/CSV/.idea/CSV.iml" filepath="$PROJECT_DIR$/../../Pandas-programs/CSV/.idea/CSV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Pandas-programs/CSV-to-Json/.idea/CSV-to-Json.iml" filepath="$PROJECT_DIR$/../../Pandas-programs/CSV-to-Json/.idea/CSV-to-Json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Conversions/.idea/Conversions.iml" filepath="$PROJECT_DIR$/../Conversions/.idea/Conversions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Pandas-programs/Dataframe/.idea/Dataframe.iml" filepath="$PROJECT_DIR$/../../Pandas-programs/Dataframe/.idea/Dataframe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dictionary/.idea/Dictionary.iml" filepath="$PROJECT_DIR$/../Dictionary/.idea/Dictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Pandas-programs/Indexing-Selecting/.idea/Indexing-Selecting.iml" filepath="$PROJECT_DIR$/../../Pandas-programs/Indexing-Selecting/.idea/Indexing-Selecting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Pandas-programs/JSON/.idea/JSON.iml" filepath="$PROJECT_DIR$/../../Pandas-programs/JSON/.idea/JSON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../List/.idea/List.iml" filepath="$PROJECT_DIR$/../List/.idea/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Pandas-programs/Pandas-series/.idea/Pandas-series.iml" filepath="$PROJECT_DIR$/../../Pandas-programs/Pandas-series/.idea/Pandas-series.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Pandas-programs/Pandas-sorting/.idea/Pandas-sorting.iml" filepath="$PROJECT_DIR$/../../Pandas-programs/Pandas-sorting/.idea/Pandas-sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Pandas-programs/Read-JSON/.idea/Read-JSON.iml" filepath="$PROJECT_DIR$/../../Pandas-programs/Read-JSON/.idea/Read-JSON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Pandas-programs/Read-csv/.idea/Read-csv.iml" filepath="$PROJECT_DIR$/../../Pandas-programs/Read-csv/.idea/Read-csv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Pandas-programs/Replace-NAN-zero/.idea/Replace-NAN-zero.iml" filepath="$PROJECT_DIR$/../../Pandas-programs/Replace-NAN-zero/.idea/Replace-NAN-zero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Set/.idea/Set.iml" filepath="$PROJECT_DIR$/../Set/.idea/Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../String/.idea/String.iml" filepath="$PROJECT_DIR$/../String/.idea/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Pandas-programs/basic/.idea/basic.iml" filepath="$PROJECT_DIR$/../../Pandas-programs/basic/.idea/basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Pandas-programs/convert-json-to-csv/.idea/convert-json-to-csv.iml" filepath="$PROJECT_DIR$/../../Pandas-programs/convert-json-to-csv/.idea/convert-json-to-csv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Pandas-programs/pandas/.idea/pandas.iml" filepath="$PROJECT_DIR$/../../Pandas-programs/pandas/.idea/pandas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tuple/.idea/tuple.iml" filepath="$PROJECT_DIR$/../tuple/.idea/tuple.iml" />
+    </modules>
+  </component>
+</project>

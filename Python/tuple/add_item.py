@@ -1,0 +1,5 @@
+tuple1 = ('snegha','krishva','kousi')
+result = list(tuple1)
+result.append('trishika')
+tuple1 = tuple(result)
+print(tuple1)

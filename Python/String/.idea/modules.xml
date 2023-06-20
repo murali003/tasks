@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Advanced/.idea/Advanced.iml" filepath="$PROJECT_DIR$/../Advanced/.idea/Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pg-1/.idea/Basic.iml" filepath="$PROJECT_DIR$/../pg-1/.idea/Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Conversions/.idea/Conversions.iml" filepath="$PROJECT_DIR$/../Conversions/.idea/Conversions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dictionary/.idea/Dictionary.iml" filepath="$PROJECT_DIR$/../Dictionary/.idea/Dictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../List/.idea/List.iml" filepath="$PROJECT_DIR$/../List/.idea/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Set/.idea/Set.iml" filepath="$PROJECT_DIR$/../Set/.idea/Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/String.iml" filepath="$PROJECT_DIR$/.idea/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tuple/.idea/tuple.iml" filepath="$PROJECT_DIR$/../tuple/.idea/tuple.iml" />
+    </modules>
+  </component>
+</project>
